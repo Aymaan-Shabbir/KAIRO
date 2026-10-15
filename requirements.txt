@@ -12,3 +12,4 @@ rich
 mistralai
 streamlit
 reportlab
+langchain-mistralai
