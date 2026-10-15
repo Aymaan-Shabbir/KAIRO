@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-openai
+langgraph
+langchain-tavily
+requests
+beautifulsoup4
+python-dotenv
+pydantic
+tavily
+rich
+mistralai
+streamlit
+reportlab
